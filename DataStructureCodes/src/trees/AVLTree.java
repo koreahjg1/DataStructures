@@ -8,7 +8,7 @@ import java.util.HashMap;
  * The height of the tree is balanced by rotation when an element is added or deleted.
  * 
  * Author: Jonggi Hong
- * Data: 04/15/2017
+ * Last update: 04/15/2017
  */
 public class AVLTree<K extends Comparable<K>, V> {
 	AVLTree<K, V> left, right;

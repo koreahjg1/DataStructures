@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * This class is BTree.
  * 
  * Author: Jonggi Hong
- * Data: 04/15/2017
+ * Last update: 04/15/2017
  */
 
 public class BTree<K extends Comparable<K>> {

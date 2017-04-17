@@ -7,7 +7,7 @@ import java.lang.IndexOutOfBoundsException;
  * This class is a singly linked list. This list stores data sequentially, not in order.
  * 
  * Author: Jonggi Hong
- * Data: 04/15/2017
+ * Last update: 04/15/2017
  */
 
 public class ListNoOrder<T extends Comparable<T>>

@@ -6,7 +6,7 @@ import lists.ListNoOrder.Node;
  * This class is a ordered linked list. This list stores data in order.
  * 
  * Author: Jonggi Hong
- * Data: 04/15/2017
+ * Last update: 04/15/2017
  */
 
 public class ListInOrder<T extends Comparable<T>> extends ListNoOrder<T> {
